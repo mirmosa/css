@@ -1,0 +1,38 @@
+
+
+.blog{
+ background-position: center;
+    width: 400px;
+    font-family: arial;
+    padding: 20px;
+    margin: 20px auto 10px auto;
+    
+    
+}
+
+
+
+.box1{ background-image: url(./hh.jpg/h11.jpg);
+font-family: arial;
+color: rgb(231, 66, 16);
+
+}
+
+.box2{ background-image: url(./hh.jpg/h-4.jpg);
+    color: rgb(0, 0, 0);}
+.box3{background-image: url(./hh.jpg/h12.jpg)  ;
+    color: rgb(1, 7, 0);}
+.box4{background-image: url(./hh.jpg/h13.webp) ;
+    color: rgb(231, 66, 16);}
+.box5{background-image: url(./hh.jpg/h14.jpg) ;
+    color: rgb(16, 231, 63);}
+.box6{background-image:  url(./hh.jpg/h15.jpg) ;}
+.box7{background-image:   url(./hh.jpg/h10.jpg);}
+.box8{background-image:  url(./hh.jpg/h2.jpg) ;}
+.box9{background-image:   url(./hh.jpg/h3.jpg);}
+.box10{background-image:   url(./hh.jpg/h5.jpg);}
+.box11{background-image: url(./hh.jpg/h6.jpg);}
+.box12{background-image:   url(./hh.jpg/h7.jpg);}
+.box13{background-image: url(./hh.jpg/h8.jpg);}
+.box14{background-image:  url(./hh.jpg/h9.jpg) ;}
+.box15{background-image:  url(./hh.jpg/woman-3190829_640.jpg) ;}
